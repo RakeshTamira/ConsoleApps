@@ -24,7 +24,7 @@ namespace FirstAPI.Controllers
              },
              new Book{
                  Id = 3,
-               Title = "Atlas Shrigged",
+               Title = "Atlas Shrugged",
                Author = "Ayn Rand",
                YearPublished = "1970"
              }
