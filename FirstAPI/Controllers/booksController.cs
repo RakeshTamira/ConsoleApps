@@ -21,7 +21,14 @@ namespace FirstAPI.Controllers
                Title = "Thus Spake Zarathusthra",
                Author = "Friedrick Nietzsche",
                YearPublished = "1960"
+             },
+             new Book{
+                 Id = 3,
+               Title = "Atlas Shrigged",
+               Author = "Ayn Rand",
+               YearPublished = "1970"
              }
+             
         };
 
         [HttpGet]
