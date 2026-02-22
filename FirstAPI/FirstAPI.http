@@ -1,0 +1,12 @@
+@rootUrl = http://localhost:32769
+
+GET {{rootUrl}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{rootUrl}}/Book
+Accept: application/json
+
+###
+GET {{rootUrl}}/GetBookbyId
+Accept: application/json

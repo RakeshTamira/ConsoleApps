@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|c:\\users\\rakes\\source\\repos\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C972467D-225E-44DC-AAEA-7CDE0B3894AE}|FirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "booksController.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Controllers\\booksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\booksController.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Controllers\\booksController.cs",
+              "RelativeToolTip": "Controllers\\booksController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:32:29.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\models\\Book.cs",
+              "RelativeDocumentMoniker": "models\\Book.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\models\\Book.cs",
+              "RelativeToolTip": "models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:30:30.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\FirstAPI.csproj",
+              "RelativeDocumentMoniker": "FirstAPI.csproj",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\FirstAPI.csproj",
+              "RelativeToolTip": "FirstAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T03:29:39.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T03:25:56.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstAPI.http",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\FirstAPI.http",
+              "RelativeDocumentMoniker": "FirstAPI.http",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\FirstAPI.http",
+              "RelativeToolTip": "FirstAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-10T02:42:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:24:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T02:23:48.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:23:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rakes\\source\\repos\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:19:23.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
