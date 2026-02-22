@@ -28,7 +28,12 @@ namespace FirstAPI.Controllers
                Author = "Ayn Rand",
                YearPublished = "1970"
              }
-             
+             new book{
+                Id = 4,
+                Title = "Alchemist",
+               Author = "Paulo Coelho",
+               YearPublished = "1972"
+             }
         };
 
         [HttpGet]
